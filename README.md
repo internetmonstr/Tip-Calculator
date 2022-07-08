@@ -29,14 +29,3 @@ What percentage tip would you like to give? 10, 12 or 15? 12
 Each person should pay: ₹33.60
 ```
 
-
-# Hint
-
-1. [How to round a number to 2 decimal places in Python](https://www.google.com/search?q=how+to+round+number+to+2+decimal+places+python&oq=how+to+round+number+to+2+decimal)
-2. [How to limit a float to two decimal places in Python](https://www.kite.com/python/answers/how-to-limit-a-float-to-two-decimal-places-in-python)
-
-
-
-# Solution
-
-[https://replit.com/@appbrewery/tip-calculator-end](https://replit.com/@appbrewery/tip-calculator-end)
